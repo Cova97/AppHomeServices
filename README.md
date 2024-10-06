@@ -118,4 +118,4 @@ Una vez que el servidor backend esté corriendo y la app React Native esté ejec
 
 Para más información sobre este proyecto, puedes contactarme a través de:
 
-- **Email**: tu-email@example.com
+- **Email**: acovamartinez@gmail.com
